@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![1908 Good Housekeeping magazine cover](https://upload.wikimedia.org/wikipedia/commons/4/47/Good_housekeeping_1908_08_a.jpg)
+<p align="center"><a href="https://upload.wikimedia.org/wikipedia/commons/4/47/Good_housekeeping_1908_08_a.jpg"><img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Good_housekeeping_1908_08_a.jpg"  alt="1908 Good Housekeeping magazine cover"/></a></p>
 
 Image: A cover of "Good Housekeeping" magazine, 1908, made by John Cecil Clay. [Link to image](https://commons.wikimedia.org/wiki/File:Good_housekeeping_1908_08_a.jpg)
 
