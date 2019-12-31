@@ -3,7 +3,6 @@ layout: page
 title: Additional Resources
 permalink: /resources/
 ---
-# Table of Contents
 - [Books and Edited Collections](#books-and-edited-collections)
 - [Journal Articles and Chapters](#journal-articles-and-chapters)
 - [Blog Posts and Other Articles](#blog-posts-and-other-articles)
