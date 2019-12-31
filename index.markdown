@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 ---
 
 ![1908 Good Housekeeping magazine cover](https://upload.wikimedia.org/wikipedia/commons/4/47/Good_housekeeping_1908_08_a.jpg)
