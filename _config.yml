@@ -21,7 +21,7 @@
 title: A Slice of Pi
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A series of lessons, modules, and tutorials that use the Raspberry Pi to cover aspects of computing fundamentals, markup languages, programming with Python, building a LAMP stack, and installing open-source software. Created by Katherine Walden and Lindsay K. Mattock.
+  A series of lessons, modules, and tutorials that use the Raspberry Pi to cover aspects of computing fundamentals, markup languages, programming with Python, building a LAMP stack, and installing open-source software. Created by Lindsay K. Mattock and Katherine Walden.
 baseurl: "/slice-of-pi" # the subpath of your site, e.g. /blog
 url: "ttps://kwaldenphd.github.io/slice-of-pi/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
